@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeekBrainsQuickStart", "GeekBrainsQuickStart.csproj", "{3CCFD591-2A1D-4F5B-BDEA-85609B78F397}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinemaAdviser", "CinemaAdviser\CinemaAdviser.csproj", "{1C46F54D-D0A5-4D26-83C3-4F223C69A2AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CCFD591-2A1D-4F5B-BDEA-85609B78F397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CCFD591-2A1D-4F5B-BDEA-85609B78F397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CCFD591-2A1D-4F5B-BDEA-85609B78F397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CCFD591-2A1D-4F5B-BDEA-85609B78F397}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C46F54D-D0A5-4D26-83C3-4F223C69A2AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C46F54D-D0A5-4D26-83C3-4F223C69A2AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C46F54D-D0A5-4D26-83C3-4F223C69A2AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C46F54D-D0A5-4D26-83C3-4F223C69A2AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
